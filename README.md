@@ -7,7 +7,7 @@ Travel Blog: Web Site Link - https://travelblog.kesug.com
 
 Online E-Commerce: Web Site Link - https://flexifashon.wuaze.com
 
-![SC11](https://github.com/Venkatesh771/Word-Press-Projects/assets/126060585/eb6167ba-8837-4a4a-a725-798cae9201f0)
+![Gt1](https://github.com/Venkatesh771/Word-Press-Projects/assets/126060585/57f7fbed-ac96-4447-8426-6c5bdb9a1ecb)
 
 ![SC22](https://github.com/Venkatesh771/Word-Press-Projects/assets/126060585/dbfb03b4-21ca-4c9e-ad27-63e36d1e7723)
 
